@@ -58,6 +58,9 @@ header .title {
 
 .todo-form .input::placeholder {
   padding-left: 0.5rem;
+  color: green;
+  position: relative;
+  top: 2px;
 }
 
 .todo-form .submit {
@@ -113,6 +116,7 @@ header .title {
 
 .todo-list .todo-item .todo-text {
   flex: 1;
+  color: green;
 }
 
 
